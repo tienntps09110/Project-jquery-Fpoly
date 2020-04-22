@@ -1,0 +1,136 @@
+{
+	"news": [
+		{
+			"id": "1",
+			"name": "Mắc biếc",
+			"price": "100000",
+			"content": "Mỗi khi Dũng làm Hà Lan tổn thương cô lại tìm Ngạn để nói lên bầu tâm sự, điều đó lại càng làm cho Ngạn buồn thêm. Có lần Ngạn đã đánh nhau với Dũng vì Hà Lan và kết quả tất nhiên là Ngạn thua nhưng điều đó đã không làm cho Ngạn bớt đi tính anh hùng, sẵn sàng đánh nhau mỗi khi Hà Lan bị bắt nạt. Cũng từ đó những cảm xúc mỗi khi Hà Lan tìm đến Ngạn để giãi bày niềm tâm sự giảm đi.",
+			"author": "Nguyễn Nhật Ánh",
+			"category": "Tình yêu",
+			"image": "matbiec4231QAF.jpg",
+			"date_time": "2019-11-13",
+			"view": "123341"
+		},
+		{
+			"id": "2",
+			"name": "Hạ đỏ",
+			"price": "67000",
+			"content": "Mùa hè là khoảng thời gian mà học trò không còn lo lắng chuyện học hành và cũng là mùa để họ vui chơi giải trí. Mùa hè này, anh chàng Chương còm sẽ về quê ngoại để đổi gió và nghỉ ngơi sau chín tháng dài học hành căng thẳng với đầy nỗi âu lo. Nơi quê ngoại Chương sẽ làm gì và học hỏi được những gì ? Xin mời các bạn cùng đón đọc Hạ Ðỏ để biết được toàn bộ nội dung câu chuyện này.",
+			"author": "Nguyễn Nhật Ánh",
+			"category": "Tiểu thuyết",
+			"image": "hado32313.jpg",
+			"date_time": "2017-11-13",
+			"view": "53134"
+		},
+		{
+			"id": "3",
+			"name": "Hai con mèo bên cửa sổ",
+			"price": "64346",
+			"content": "Nhân vật chính thứ nhất tên là Gấu.Nhân vật thứ hai là Tí Hon.Nhân vật thứ ba, tên là…; còn nữa, nhân vật thứ tư, tên là…Để biết tại sao Gấu lại chơi thân với Tí Hon, thì mời bạn hãy mở sách ra.Gấu và Tí Hon thân nhau đến mức có thể chia sẻ từng chuyện vui buồn trong những phút giây mềm yếu, lo lắng và chăm sóc, giúp nhau từ miếng ăn đến “chiến lược” để tồn tại lâu dài.Tình bạn là gì?",
+			"author": "Nguyễn Nhật Ánh",
+			"category": "Tiểu thuyết",
+			"image": "sach-co-hai-con-meo-ngoi-ben-cua-so.jpg",
+			"date_time": "2012-11-13",
+			"view": "74242"
+		},
+		{
+			"id": "4",
+			"name": "Hoa vàng trên cỏ xanh",
+			"price": "100000",
+			"content": "Những câu chuyện nhỏ xảy ra ở một ngôi làng nhỏ: chuyện người, chuyện cóc, chuyện ma, chuyện công chúa và hoàng tử , rồi chuyện đói ăn, cháy nhà, lụt lội,… Bối cảnh là trường học, nhà trong xóm, bãi tha ma. Dẫn chuyện là cậu bé 15 tuổi tên Thiều. Thiều có chú ruột là chú Đàn, có bạn thân là cô bé Mận. Nhưng nhân vật đáng yêu nhất lại là Tường, em trai Thiều, một cậu bé học không giỏi. Thiều, Tường và những đứa trẻ sống trong cùng một làng, học cùng một trường, có biết bao chuyện chung. Chúng nô đùa, cãi cọ rồi yêu thương nhau, cùng lớn lên theo năm tháng, trải qua bao sự kiện biến cố của cuộc đời.",
+			"author": "Nguyễn Nhật Ánh",
+			"category": "Tình yêu",
+			"image": "toi_thay_hoa_vang.jpg",
+			"date_time": "2016-06-15",
+			"view": "93833"
+		},
+		{
+			"id": "5",
+			"name": "Nhà giả kim",
+			"price": "150000",
+			"content": "Nhà Giả Kim tất cả những trải nghiệm trong chuyến phiêu du theo đuổi vận mệnh của mình đã giúp Santiago thấu hiểu được ý nghĩa sâu xa nhất của hạnh phúc, hòa hợp với vũ trụ và con người.Tiểu thuyết Nhà giả kim của Paulo Coelho như một câu chuyện cổ tích giản dị, nhân ái, giàu chất thơ, thấm đẫm những minh triết huyền bí của phương Đông. Trong lần xuất bản đầu tiên tại Brazil vào năm 1988, sách chỉ bán được 900 bản. Nhưng, với số phận đặc biệt của cuốn sách dành cho toàn nhân loại, vượt ra ngoài biên giới quốc gia, Nhà giả kim đã làm rung động hàng triệu tâm hồn, trở thành một trong những cuốn sách bán chạy nhất mọi thời đại, và có thể làm thay đổi cuộc đời người đọc.- Trích Nhà giả kim",
+			"author": "Paulo celho",
+			"category": "Tiểu thuyết",
+			"image": "sach-nha-gia-kim.jpg",
+			"date_time": "2014-06-15",
+			"view": "78000"
+		},
+		{
+			"id": "6",
+			"name": "Đắc nhân tâm",
+			"price": "140000",
+			"content": "Đắc nhân tâm – How to win friends and Influence People  của Dale Carnegie là quyển sách nổi tiếng nhất, bán chạy nhất và có tầm ảnh hưởng nhất của mọi thời đại. Tác phẩm đã được chuyển ngữ sang hầu hết các thứ tiếng trên thế giới và có mặt ở hàng trăm quốc gia.Đây là quyển sách duy nhất về thể loại self-help liên tục đứng đầu danh mục sách bán chạy nhất (best-selling Books) do báo The New York Times bình chọn suốt 10 năm liền. Riêng bản tiếng Anh của sách đã bán được hơn 15 triệu bản trên thế giới. Tác phẩm có sức lan toả vô cùng rộng lớn – dù bạn đi đến bất cứ nơi đâu, bất kỳ quốc gia nào cũng đều có thể nhìn thấy. Tác phẩm được đánh giá là quyển sách đầu tiên và hay nhất, có ảnh hưởng làm thay đổi cuộc đời của hàng triệu người trên thế giới.",
+			"author": "Dale Carnegie",
+			"category": "Cuộc sống",
+			"image": "dac-nhan-tam-bia.jpg",
+			"date_time": "2016-06-15",
+			"view": "456656"
+		},
+		{
+			"id": "7",
+			"name": "Vé Đi Tuổi Thơ",
+			"price": "255000",
+			"content": "Tác phẩm gồm những câu chuyện nhỏ xoay xung quanh 4 đứa trẻ trong cùng một khu xóm là con Tủn, con Tí sún, thằng Hải cò và thằng cu Mùi. Trong đó, người kể chuyện là cu Mùi dưới hình thức kể của",
+			"author": "Nguyễn Nhật Ánh",
+			"image": "cho-toi-xin-1-ve-di-tuoi-tho.jpg",
+			"category": "Tiểu thuyết",
+			"date_time": "2016-06-15",
+			"view": "12546"
+		},
+		{
+			"id": "8",
+			"name": "Bồ câu không đưa thư",
+			"price": "60000",
+			"content": "Hẳn bạn đọc ở lứa tuổi học trò đã từng quen thuộc với tác giả Nguyễn Nhật Ánh với những truyện ngắn và truyện dài đậm chất học trò như: Trại hoa vàng, Chú bé rắc rối, Phòng trọ ba người, Bồ câu không đưa thư.",
+			"author": "Nguyễn Nhật Ánh",
+			"image": "bồ_câu_không_đưa_thư_....jpeg",
+			"category": "Học trò",
+			"date_time": "2016-06-15",
+			"view": "93833"
+		},
+		{
+			"id": "9",
+			"name": "Tâm Tình Với Đất Mẹ",
+			"price": "60000",
+			"content": "Trong mỗi khoảnh khắc, Đất Mẹ hiện diện bên trên, bên dưới, xung quanh, thậm chí bên trong bản thân bạn. Đất Mẹ có mặt ở khắp mọi nơi. Có lẽ ta từng nghĩ rằng Địa Cầu chỉ là phần bên dưới chân chúng ta mà thôi. Nhưng thật ra, nước, các đại dương, bầu trời cũng như tất cả mọi thứ xung quanh chúng ta đều khởi phát từ Đất Mẹ. Chúng ta cũng thường quên mất rằng hành tinh chúng ta đang sinh sống đã hiến tặng những thành tố cấu tạo nên cơ thể của ta. Ta có nước trong da thịt, trong xương, tất cả những tế bào vi tế trong cơ thể mình đều bắt nguồn và đều là những thành phần của Đất Mẹ. Quả Địa Cầu không chỉ đơn thuần là môi trường mà chúng ta sinh sống. Chúng ta cũng chính là Đất Mẹ và Đất Mẹ luôn luôn có mặt trong chúng ta.",
+			"author": "Thích Nhất Hạnh",
+			"image": "tam_tinh_voi_dat_me.jpg",
+			"category": "Tự sự",
+			"date_time": "2018-06-15",
+			"view": "83000"
+		},
+		{
+			"id": "10",
+			"name": "Cánh Đồng Bất Tận",
+			"price": "160000",
+			"content": "ánh đồng bất tận bao gồm những truyện hay và mới nhất của nhà văn Nguyễn Ngọc Tư. Đây là tác phẩm đang gây xôn xao trong đời sống văn học, bởi ở đó người ta tìm thấy sự dữ dội, khốc liệt của đời sống thôn dã qua cái nhìn của một cô gái. Bi kịch về nỗi mất mát, sự cô đơn được đẩy lên đến tận cùng, khiến người đọc có lúc cảm thấy nhói tim.",
+			"author": "Nguyễn Ngọc Tư",
+			"image": "canh_dong_bat_tan.jpeg",
+			"category": "Tự sự",
+			"date_time": "2016-06-15",
+			"view": "13833"
+		},
+		{
+			"id": "11",
+			"name": "Trại Hoa Vàng",
+			"price": "48000",
+			"content": "Tôi ngóc mỏ ngồi bên cạnh, nghe ba tôi phán một câu, miệng liền méo xệch. Niềm ao ước sắm sửa đồ mới của tôi phen này thế là đi tong ! Trước nay, ba tôi vẫn thường để ý đặc biệt đến cách ăn mặc của tôi. Không hiểu nghe lỏm được ở đâu, ông cứ đinh ninh chuyện quần áo luôn luôn liên quan chặt chẽ đến tính khí con người. Hễ ăn mặc giản dị, thanh bần mới là người chăm học. Còn ai quần áo đẹp đẽ đều bị ông liệt vào hạng đàn đúm, ăn chơi.",
+			"author": "Nguyễn Nhật Ánh",
+			"image": "Trại_Hoa_Vàng__1_.jpeg",
+			"category": "Tình yêu",
+			"date_time": "2019-01-01",
+			"view": "198833"
+		},
+		{
+			"id": "12",
+			"name": "Cánh Đồng Bất Tận",
+			"price": "160000",
+			"content": "ánh đồng bất tận bao gồm những truyện hay và mới nhất của nhà văn Nguyễn Ngọc Tư. Đây là tác phẩm đang gây xôn xao trong đời sống văn học, bởi ở đó người ta tìm thấy sự dữ dội, khốc liệt của đời sống thôn dã qua cái nhìn của một cô gái. Bi kịch về nỗi mất mát, sự cô đơn được đẩy lên đến tận cùng, khiến người đọc có lúc cảm thấy nhói tim.",
+			"author": "Nguyễn Ngọc Tư",
+			"image": "canh_dong_bat_tan.jpeg",
+			"category": "Tự sự",
+			"date_time": "2016-06-15",
+			"view": "13833"
+		}
+	]
+}

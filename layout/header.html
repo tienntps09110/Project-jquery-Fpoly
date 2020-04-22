@@ -1,0 +1,62 @@
+<!--Navbar-->
+<nav class="navbar navbar-expand-lg navbar-dark blue-gradient">
+
+    <!-- Navbar brand -->
+    <a onclick="changeMain('home')">
+        <img src="http://note.tantien.info/assets/images/logo.png" width="130px"
+            class="navbar-brand text-light font-weight-bold" alt="LOGO">
+    </a>
+    <!-- Collapse button -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav"
+        aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Collapsible content -->
+    <div class="collapse navbar-collapse" id="basicExampleNav">
+
+        <!-- Links -->
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <button class="nav-link border-0 btn" onclick="changeMain('home')">Trang chủ
+                </button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link border-0 btn" onclick="changeMain('news')">Bài viết
+                </button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link border-0 btn" onclick="changeMain('login')">Đăng nhập
+                </button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link border-0 btn" onclick="changeMain('register')">Đăng kí
+                </button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link border-0 btn" onclick="changeMain('images')">Hình đẹp
+                </button>
+            </li>
+            <li class="nav-item">
+                <button class="nav-link border-0 btn" onclick="changeMain('contact')">Liên hệ
+                </button>
+            </li>
+            <!-- Dropdown -->
+            <!-- <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">Chủ đề</a>
+                <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="#">Truyện hay</a>
+                    <a class="dropdown-item" href="#">Tin tức</a>
+                    <a class="dropdown-item" href="#">Giải trí</a>
+                </div>
+            </li> -->
+
+        </ul>
+        <!-- Links -->
+        <h6 id="clock" class="text-light font-weight-bold"></h6>
+    </div>
+    <!-- Collapsible content -->
+
+</nav>
+<!--/.Navbar-->
